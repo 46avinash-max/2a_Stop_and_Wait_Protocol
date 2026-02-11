@@ -64,9 +64,10 @@ while True:
 ~~~
  
 ## OUTPUT
-## SERVER
+## SERVER:
 <img width="1316" height="156" alt="Screenshot 2026-02-11 111930" src="https://github.com/user-attachments/assets/5a09a1a7-c6a2-495a-bef3-ab4dd237df66" />
-## CLIENT
+
+## CLIENT:
 <img width="1210" height="182" alt="Screenshot 2026-02-11 111859" src="https://github.com/user-attachments/assets/8b0573b7-ca87-4edc-8236-42e3f5c90e8d" />
 
 
